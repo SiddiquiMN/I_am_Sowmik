@@ -1,0 +1,20 @@
+.container img{
+    width:  800px;
+    height: 500px;
+    margin-left: 20%;
+    padding: 20px;
+}
+
+/*.d-md-flex{
+    margin-left: 40%;
+}
+.credits{
+    margin-left: 10%;
+}*/
+#header .logo img {
+    max-height: 40px;
+    margin: 0%;
+    padding: 0%;
+    height: 40px;
+    width: 40px;
+}
